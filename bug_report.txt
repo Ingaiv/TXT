@@ -1,1 +1,24 @@
-
+"location": {
+  "ancestorOrigins": {},
+  "href": "http://localhost:4000/",
+  "origin": "http://localhost:4000",
+  "protocol": "http:",
+  "host": "localhost:4000",
+  "hostname": "localhost",
+  "port": "4000",
+  "pathname": "/",
+  "search": "",
+  "hash": ""
+}
+"form": {
+  "title": "Wellcome is spelled incorrectly",
+  "description": "You should change it to 'Welcome'"
+}
+"screenshotSize": { "width": 1262.46875, "height": 867 }
+"notes": [{
+  "id":"7ebcf985-f7dc-4b78-9e17-b346dd910a0a",
+  "pinHead":{"x":100,"y":100},
+  "selected":true,
+  "text":"Here is a note",
+  "size":{"width":64,"height":32}
+}]
