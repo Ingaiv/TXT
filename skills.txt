@@ -1,0 +1,4 @@
+"first":"selfstudies"
+"second":"sql, json, git bash, devtools"
+"third": "work in team"
+"fourth": "practical part"
